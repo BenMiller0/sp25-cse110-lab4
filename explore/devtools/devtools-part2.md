@@ -1,0 +1,1 @@
+1. num1 and num2 are being assigned to strings by document.getElementById and thus calculateSum is concatenating the strings instead of mathmatically adding them.
